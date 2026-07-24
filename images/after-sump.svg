@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-label="Underground sump after cleaning">
+  <rect width="320" height="220" fill="#eaf7f5"/>
+  <rect x="60" y="60" width="200" height="120" rx="8" fill="#0fb5ae"/>
+  <circle cx="150" cy="120" r="5" fill="#ffffff" opacity="0.6"/>
+  <circle cx="190" cy="140" r="4" fill="#ffffff" opacity="0.6"/>
+  <circle cx="120" cy="150" r="3" fill="#ffffff" opacity="0.6"/>
+</svg>

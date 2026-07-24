@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 360" role="img" aria-label="Technician cleaning a water tank">
+  <rect width="480" height="360" fill="#eaf3fb"/>
+  <circle cx="240" cy="150" r="120" fill="#d7e9f8"/>
+  <rect x="150" y="120" width="180" height="160" rx="14" fill="#0a66c2"/>
+  <rect x="150" y="120" width="180" height="40" rx="14" fill="#084a8f"/>
+  <circle cx="240" cy="140" r="10" fill="#ffffff"/>
+  <path d="M150 280 h180" stroke="#084a8f" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="120" cy="300" r="26" fill="#f4c78a"/>
+  <rect x="96" y="322" width="48" height="30" rx="8" fill="#0fb5ae"/>
+  <rect x="90" y="300" width="60" height="16" rx="8" fill="#0a66c2"/>
+  <path d="M340 190 q20 -10 20 20" stroke="#0fb5ae" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M100 60 q40 -20 60 10" stroke="#0fb5ae" stroke-width="6" fill="none" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-label="Underground sump before cleaning">
+  <rect width="320" height="220" fill="#f1ede2"/>
+  <rect x="60" y="60" width="200" height="120" rx="8" fill="#8a7355"/>
+  <rect x="60" y="60" width="200" height="120" rx="8" fill="#6f5a41" opacity="0.3"/>
+  <g fill="#4d3d2b" opacity="0.7">
+    <ellipse cx="120" cy="120" rx="18" ry="10"/>
+    <ellipse cx="170" cy="150" rx="24" ry="12"/>
+    <ellipse cx="210" cy="110" rx="14" ry="8"/>
+  </g>
+</svg>
