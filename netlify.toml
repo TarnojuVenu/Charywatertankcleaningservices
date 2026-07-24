@@ -1,0 +1,9 @@
+[build]
+  publish = "/"
+  command = ""
+
+# Redirects for Netlify Functions (if you add any later)
+[[redirects]]
+  from = "/.netlify/functions/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
