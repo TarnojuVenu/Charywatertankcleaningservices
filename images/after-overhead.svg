@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-label="Overhead tank after cleaning">
+  <rect width="320" height="220" fill="#eaf7f5"/>
+  <rect x="90" y="40" width="140" height="120" rx="10" fill="#0fb5ae"/>
+  <rect x="90" y="40" width="140" height="30" rx="10" fill="#0a938d"/>
+  <circle cx="160" cy="100" r="4" fill="#ffffff" opacity="0.7"/>
+  <circle cx="185" cy="120" r="3" fill="#ffffff" opacity="0.7"/>
+  <rect x="130" y="160" width="60" height="14" fill="#0a938d"/>
+</svg>
